@@ -53,3 +53,8 @@ button{
     border: solid rgb(255, 255, 255) 1px;
     padding: 11px;
 }
+@media screen and (max-width:420px){
+    button{
+        margin: 10px;
+    }
+}
